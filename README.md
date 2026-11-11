@@ -24,7 +24,7 @@
 </div>
 
 ---
-## Hi there👋,I'm **Ardra!**
+## Hi there,I'm **Ardra!**
 📊 Data Science | 🤖 AI & Machine Learning | 🐍 Python Developer
 
 Turning data into insights and building intelligent solutions through technology.
