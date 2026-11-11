@@ -193,7 +193,8 @@ An AI-powered flood prediction project focused on identifying regional and hyper
 
 *Keep learning. Keep building. Never stop evolving.* 🚀
 
-⭐ Thanks for visiting my profile!
+
+## ⭐ Thanks for visiting my profile!
 
 Let's explore data, build intelligent solutions, and create something meaningful. 🚀
 
