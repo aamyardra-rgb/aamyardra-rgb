@@ -139,18 +139,23 @@ An AI-powered flood prediction project focused on identifying regional and hyper
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aamyardra-rgb&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Statistics"/>
+🔥 My Contribution Streak
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamyardra-rgb&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=aamyardra-rgb&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=aamyardra-rgb&amp;theme=tokyonight&amp;hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
+
+📈 My GitHub Activity
+
+💻 Building projects with Python and Machine Learning.
+
+📊 Exploring Data Science and Analytics.
+
+🤖 Learning AI and emerging technologies.
+
+🚀 Improving my coding skills through consistent practice.
 
 ---
 
