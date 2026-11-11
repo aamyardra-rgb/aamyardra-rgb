@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090979,50:301B70,100:00D4FF&amp;height=200&amp;section=header&amp;text=Hey%20There!%20I'm%20Ardra%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Science%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Python%20Developer&amp;descAlignY=60&amp;descSize=16" width="100%" alt="Ardra GitHub Banner"/>
-
 <h2>👋 Hello, I'm Ardra!</h2>
 
 <h3>📊 Data Science | 🤖 AI &amp; Machine Learning | 🐍 Python Developer</h3>
