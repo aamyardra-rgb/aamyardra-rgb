@@ -32,7 +32,7 @@ Turning data into insights and building intelligent solutions through technology
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Ardra**, a Computer Science graduate passionate about Data Science, Artificial Intelligence and emerging technologies.
+ A Computer Science Fresher passionate about Data Science, Artificial Intelligence and emerging technologies.
 
 I enjoy exploring data, discovering meaningful patterns, developing predictive models and transforming technical concepts into practical solutions.
 
