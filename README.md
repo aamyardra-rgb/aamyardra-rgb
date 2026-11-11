@@ -1,84 +1,91 @@
-<!--
-  ARDRA'S GITHUB PROFILE README
-  GitHub: aamyardra-rgb
--->
+<!-- ========================================= -->
+<!--          ARDRA'S GITHUB PROFILE           -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301B70,100:00D4FF&height=200&section=header&text=Hey%20There!%20I'm%20Ardra%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Python&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090979,50:301B70,100:00D4FF&amp;height=200&amp;section=header&amp;text=Hey%20There!%20I'm%20Ardra%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Science%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Python%20Developer&amp;descAlignY=60&amp;descSize=16" width="100%" alt="Ardra GitHub Banner"/>
 
-<a href="https://github.com/aamyardra-rgb">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Meaningful+Insights;Building+Intelligent+Solutions+With+AI;Exploring+Machine+Learning+%26+GenAI;Learning+Every+Day.+Building+Every+Day." alt="Typing SVG"/>
-</a>
+<h2>👋 Hello, I'm Ardra!</h2>
+
+<h3>📊 Data Science | 🤖 AI &amp; Machine Learning | 🐍 Python Developer</h3>
+
+<p>
+Turning data into insights and building intelligent solutions through technology.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=aamyardra-rgb&amp;label=PROFILE+VIEWS&amp;color=6C63FF&amp;style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/aamyardra-rgb?style=for-the-badge&amp;logo=github&amp;color=00D4FF&amp;label=Followers" alt="GitHub Followers"/>
 
 <br/>
 
-<a href="https://github.com/aamyardra-rgb">
-<img src="https://komarev.com/ghpvc/?username=aamyardra-rgb&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/aamyardra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/aamyardra-rgb?tab=followers">
-<img src="https://img.shields.io/github/followers/aamyardra-rgb?style=for-the-badge&logo=github&color=00D4FF&label=Followers" alt="GitHub followers"/>
+<a href="mailto:aamyardra@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
-## Hi there,I'm **Ardra!**
-📊 Data Science | 🤖 AI & Machine Learning | 🐍 Python Developer
-
-Turning data into insights and building intelligent solutions through technology.
 
 ## 👩‍💻 About Me
 
-A Computer Science fresher with a strong interest in Data Science, Artificial Intelligence and intelligent technologies.
+Hello! I'm **Ardra**, a Computer Science graduate passionate about Data Science, Artificial Intelligence and emerging technologies.
 
-I enjoy exploring data, understanding patterns, developing predictive models and turning technical concepts into practical solutions.
+I enjoy exploring data, discovering meaningful patterns, developing predictive models and transforming technical concepts into practical solutions.
 
-- 🔭 Exploring **Data Science, Machine Learning & AI**
-- 🌱 Strengthening my knowledge of Python, SQL, Statistics and Deep Learning
-- 🤖 Interested in Generative AI and intelligent applications
-- 📊 Passionate about data analysis, visualization and predictive modelling
-- 💡 Believe in learning by building real-world projects
-- 🎯 Focused on growing into an industry-ready technology professional
-- 📍 Kerala, India
+- 🎓 Computer Science and Engineering Graduate
+- 📊 Interested in Data Science and Data Analytics
+- 🐍 Working with Python, SQL and Statistical Analysis
+- 🤖 Exploring Machine Learning and Deep Learning
+- 🧠 Interested in Generative AI and intelligent applications
+- 📈 Passionate about solving real-world problems using data
+- 🚀 Continuously learning, experimenting and building projects
 
-> *Curiosity drives me. Data inspires me. Technology empowers me.*
+> "Curiosity drives me. Data inspires me. Technology empowers me."
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack &amp; Technologies
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
 </p>
 
-### 📊 Data Science & Analytics
+### 📊 Data Science &amp; Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI &amp; Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-6C63FF?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit Learn"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Generative_AI-7B2CBF?style=for-the-badge" alt="Generative AI"/>
 </p>
 
-### ⚙️ Tools & Development
+### ⚙️ Tools &amp; Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -87,38 +94,49 @@ I enjoy exploring data, understanding patterns, developing predictive models and
 
 ### ❤️ Heart Disease Prediction Using Machine Learning
 
-An intelligent predictive application that explores the possibility of heart disease using patient health parameters.
+An intelligent predictive application designed to estimate the likelihood of heart disease using patient health parameters.
 
+**Key Features:**
 - Data preprocessing and feature engineering
 - Predictive modelling using XGBoost
-- Model evaluation and prediction
-- Exploring an interactive application with healthcare-oriented features
+- Machine learning model evaluation
+- Interactive application development
+- Healthcare-oriented prediction support
 
-**Tech:** Python | Pandas | Scikit-learn | XGBoost
+**Technologies:** Python | Pandas | Scikit-learn | XGBoost
 
-### 🌊 Intelligent Flood Prediction & Early Warning System
+### 🌊 Intelligent Flood Prediction &amp; Early Warning System
 
-An AI-powered flood prediction concept designed to assess regional and hyperlocal flood risks using environmental data.
+An AI-powered flood prediction project focused on identifying regional and hyperlocal flood risks using environmental and geographical data.
 
+**Key Features:**
 - Rainfall and river-level data analysis
-- Predictive modelling and flood severity assessment
-- Exploring hybrid AI architectures
+- Flood risk prediction
+- Flood severity assessment
+- Hybrid AI model exploration
 - Explainable AI and early warning mechanisms
 
-**Tech:** Python | Machine Learning | Deep Learning | Data Analytics
+**Technologies:** Python | Machine Learning | Deep Learning | Data Analytics
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Learning &amp; Exploring
 
-<p align="center">
-<img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00A6A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Engineering-0078D4?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Advanced Python"/>
+<img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=flat-square" alt="SQL"/>
+<img src="https://img.shields.io/badge/Statistics-6C63FF?style=flat-square" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Generative_AI-00A6A6?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Data_Engineering-0078D4?style=flat-square" alt="Data Engineering"/>
 </p>
+
+- Advanced Python programming
+- Machine Learning algorithms
+- Deep Learning and Neural Networks
+- Generative AI and Large Language Models
+- Data Engineering fundamentals
+- Advanced SQL and Data Analytics
 
 ---
 
@@ -126,13 +144,13 @@ An AI-powered flood prediction concept designed to assess regional and hyperloca
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aamyardra-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ardra's GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aamyardra-rgb&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamyardra-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamyardra-rgb&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=aamyardra-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=aamyardra-rgb&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -140,41 +158,44 @@ An AI-powered flood prediction concept designed to assess regional and hyperloca
 
 ## 🎯 My Vision
 
-- Build impactful projects using AI and Data Science.
-- Strengthen my technical and analytical thinking.
-- Explore emerging technologies and intelligent systems.
-- Turn continuous learning into practical development.
+- 💡 Build impactful projects using AI and Data Science.
+- 🧩 Strengthen analytical and problem-solving skills.
+- 🤖 Explore emerging AI technologies.
+- 📊 Transform complex data into meaningful insights.
+- 🚀 Turn continuous learning into practical development.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect &amp; Collaborate
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aamyardra">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:aamyardra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/aamyardra-rgb">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-### 💜 A little reminder
+### 💜 A Little Reminder
 
 **"Small progress every day leads to extraordinary results."**
 
-*Keep learning. Keep building. Never stop evolving.*
+*Keep learning. Keep building. Never stop evolving.* 🚀
 
 ⭐ Thanks for visiting my profile!
 
 Let's explore data, build intelligent solutions, and create something meaningful. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:301B70,100:090979&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,50:301B70,100:090979&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
